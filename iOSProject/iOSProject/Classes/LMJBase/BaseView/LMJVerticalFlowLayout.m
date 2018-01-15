@@ -10,7 +10,7 @@
 #define LMJXX(x) floorf(x)
 #define LMJXS(s) ceilf(s)
 
-static const NSInteger LMJ_Columns_ = 3;
+static const NSInteger LMJ_Columns_ = 7;
 static const CGFloat LMJ_XMargin_ = 10;
 static const CGFloat LMJ_YMargin_ = 10;
 static const UIEdgeInsets LMJ_EdgeInsets_ = {20, 10, 10, 10};
